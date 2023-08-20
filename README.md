@@ -1,2 +1,3 @@
 # CodePath-Task-4-Hiring-Tasks
-Email templates
+
+This are drafted responses to four different scenario
