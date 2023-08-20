@@ -14,5 +14,5 @@ Wishing you all the best in your job and internship endeavors, and congratulatio
 
 All the best,
 
-CodePath.org
+CodePath.org <br> 
 Office of Admissions
