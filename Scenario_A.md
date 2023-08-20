@@ -16,5 +16,5 @@ Thank you for your understanding. I'm genuinely excited to witness your growth a
 
 All the best,
 
-CodePath.org
+CodePath.org <br> 
 Office of Admissions
