@@ -12,5 +12,5 @@ Thank you again for considering our program and sharing your thoughts. If you ha
 
 All the best,
 
-CodePath.org
+CodePath.org <br> 
 Office of Admissions
